@@ -4,6 +4,8 @@ A CNN-based face recognition project targeted at the ORL dataset
 Installing dependency libraries:
 pip install -r requirements.txt
 
+Unzipping the dataset.
+
 Starting the model training program:
 python face_recognition.py
 
@@ -16,6 +18,8 @@ The accuracy rate is between 93% and 100% on the test set.
 
 安装依赖模块：
 pip install -r requirements.txt
+
+解压数据集。
 
 启动训练模型程序：
 python face_recognition.py
